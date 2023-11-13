@@ -131,7 +131,7 @@ The current toplist can be found in **[toplist.md](toplist.md)**.
 The results are ranked based on the total score for the three levels, which is to be minimized.
 
 If you would like to share your results with us and participate in the competition, send your
-solution strings for the three levels via email to **challenge@chemaxon.com**.
+solution strings for the three levels via email to **pkovacs84@chemaxon.com**.
 And let us know if you would like us to add your results to the toplist with your name,
 an account ID, or even anonymously. However, please do not share solution strings on any
 public forum except for the scores you achieved.
