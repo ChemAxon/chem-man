@@ -146,7 +146,7 @@ Our teams deal with complex challenges on a daily basis, and we have open positi
 a variety of skill sets. So if you like this challenge, or we've piqued your interest,
 your application is welcome. Especially if you achieved a good result, as it can be an awesome
 boost for a hiring interview, but of course, it's not a requirement.
-For more information, see [https://chemaxon.com/jobs/](https://chemaxon.com/jobs/).
+For more information, see [https://www.certara.com/chemaxon/](https://www.certara.com/chemaxon/).
 
 <br/>
 
